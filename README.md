@@ -1,2 +1,3 @@
 # Pandas-Challenge
 Pandas Homework
+In this assignment, I created different data frames of the ket metrics about the district and each school. From those data frames, I created two more to highight the top 5 performing schools based on the % of students overall passing, as well as the bottom 5 performing schools based on % of students overall passing. I then created 2 more data frames to showcase the average math scores per grade at each school and the average reading scores per grade at each school. After, I created and grouped the data to break down the school performance based on average spending rates per student, based on school size, and school type. 
